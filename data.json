@@ -1,0 +1,56 @@
+{
+  "menu": [
+    {
+      "day": "Понедельник",
+      "soup": "Гороховый",
+      "salad1": "салат1",
+      "salad2": "салат2",
+      "mainDish1": "еда1",
+      "mainDish2": "еда2",
+      "id": 1
+    },
+    {
+      "day": "Вторник",
+      "soup": "cds",
+      "salad1": "sdf",
+      "salad2": "sdf",
+      "mainDish1": "sdf",
+      "mainDish2": "sdf",
+      "id": 2
+    },
+    {
+      "day": "Среда",
+      "soup": "dsf",
+      "salad1": "sdf",
+      "salad2": "sdf",
+      "mainDish1": "dfsdf",
+      "mainDish2": "sdf",
+      "id": 3
+    },
+    {
+      "day": "Четверг",
+      "soup": "dsfsdfsdf",
+      "salad1": "sdfsdf",
+      "salad2": "sdfsdfs",
+      "mainDish1": "dfsdfsdfs",
+      "mainDish2": "sdfdfsdfsdf",
+      "id": 4
+    },
+    {
+      "day": "Пятница",
+      "soup": "суп",
+      "salad1": "салат",
+      "salad2": "салат2",
+      "mainDish1": "еда",
+      "mainDish2": "еда2",
+      "id": 5
+    }
+  ],
+  "users": {
+    "id": 1,
+    "name": "user",
+    "soup": "true",
+    "salad": "salad1",
+    "mainDish": "mainDish1"
+  }
+}
